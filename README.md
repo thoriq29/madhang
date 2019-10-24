@@ -1,4 +1,10 @@
 # resep_makanan
 
 Aplikasi Resep Makanan dengan Flutter
-![image](https://github.com/thoriq29/madhang/tree/master/screenshots/1.jpeg)
+
+<img src="screenshots/1.jpeg" width="50%" height="50%"/>
+<img src="screenshots/2.jpeg" width="50%" height="50%"/>
+<img src="screenshots/3.jpeg" width="50%" height="50%"/>
+<img src="screenshots/4.jpeg" width="50%" height="50%"/>
+
+
